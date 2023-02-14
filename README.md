@@ -33,18 +33,9 @@
 
 <a href="https://github.com/TarkanKara/">
   <img src="https://github-readme-stats.vercel.app/api?username=TarkanKara&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TarkanKara&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400"  alt="TarkanKara"/>
-
 </a>
 </div>
 
-<br>
-<br>
-
------
-
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://user-images.githubusercontent.com/59411109/218859103-2e1e3d79-e255-4ea9-a4f7-8dde0663c2c5.gif" width ="80">
 <br>
