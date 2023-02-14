@@ -6,9 +6,9 @@
 <br>
 
 
-## <picture><img src = "https://user-images.githubusercontent.com/59411109/218849787-ecf80688-6f54-41b5-9ab8-78b8f02bd6fe.gif" width = 50px></picture> **About me**
+## <img src = "https://user-images.githubusercontent.com/59411109/218849787-ecf80688-6f54-41b5-9ab8-78b8f02bd6fe.gif" width = 50px> **About me**
 
-<picture> <img align="right" src="https://user-images.githubusercontent.com/59411109/218849448-91b19d83-cea6-437a-b5ff-89aa284b13d5.gif" width = 200px></picture>
+<img align="right" src="https://user-images.githubusercontent.com/59411109/218849448-91b19d83-cea6-437a-b5ff-89aa284b13d5.gif" width = 200px>
 
 
 
