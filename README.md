@@ -20,7 +20,7 @@
 - Would you like to review my **Full Stack Web Developer** Project? [E-Commerce](https://github.com/TarkanKara/E-Ticaret), [C2C E-Commerce](https://github.com/TarkanKara/C2C_E-Ticaret/tree/main/E-Ticaret)
 - **Web Scraping with Python** [Python_WEB_SCRAPING](https://github.com/TarkanKara/Python_WEB_SCRAPING)
 - My software new spotify Flutter project with **MVVM Architecture** [New Spotify](https://github.com/TarkanKara/SpotifyUI_Api_MVVM) 
-- Many more projects with Flutter [Tarkan Kara](https://github.com/TarkanKara)
+- Many more projects with Flutter [Tarkan Kara](https://github.com/TarkanKara?tab=repositories)
 - How to reach me **unnahmet23@hotmail.com**  
 
 
