@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Tarkan KARA </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=500&color=FF0F0F&center=true&vCenter=true&width=533&lines=JR+Software+Engineer;Flutter+-+Dart+-+Firebase+-+RestAPI;PHP+-+Python+-+Git%26GitHub;HTML+-+CSS+-+JavaScript+-+Bootstrap" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=500&color=1748EE&center=true&vCenter=true&width=533&lines=JR+Software+Engineer;Flutter+-+Dart+-+Firebase+-+RestAPI;PHP+-+Python+-+Git%26GitHub;HTML+-+CSS+-+JavaScript+-+Bootstrap" alt="Typing SVG" /></a>
 </p>
 <br>
 
