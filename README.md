@@ -8,7 +8,10 @@
 
 ## <picture><img src = "https://user-images.githubusercontent.com/59411109/218843183-863e5a2e-3866-4d69-8c8e-20e522a65f12.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif](https://user-images.githubusercontent.com/59411109/218843183-863e5a2e-3866-4d69-8c8e-20e522a65f12.gif)" width = 250px></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/59411109/218846581-d57b3a43-6ece-4e58-94c0-f658ad54cb48.gif" width = 250px></picture>
+
+
+
 
 <br>
 
