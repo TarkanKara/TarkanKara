@@ -28,6 +28,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
+<br>
 <div align="center">
 
 <a href="https://github.com/TarkanKara/">
@@ -36,6 +37,14 @@
 
 </a>
 </div>
+
+<br>
+<br>
+
+-----
+
+<br>
+<br>
 
 ## <b> Let's Connect..!</b><img src="https://user-images.githubusercontent.com/59411109/218859103-2e1e3d79-e255-4ea9-a4f7-8dde0663c2c5.gif" width ="80">
 <br>
@@ -48,5 +57,14 @@
 </a>
 </li>
 
+<li>
+<a href="mailto:unnahmet23@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  TarkanKara-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
  
 
