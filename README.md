@@ -15,7 +15,6 @@
 - I graduated from **Fırat University** in June 2021 with an average of **3.04**
 - Recently, I've been developing myself on **mobile applications with Flutter**.
 - I develop my projects using **Dart, Php, Python**.
-- [Youtube Playlist](https://www.youtube.com/playlist?list=PLicJUFvZfrjZrNld03iFZP7fDDWDGxeLu)
 - I am a passionate and patient developer
 - Would you like to review my **Full Stack Web Developer** Project? [E-Commerce](https://github.com/TarkanKara/E-Ticaret), [C2C E-Commerce](https://github.com/TarkanKara/C2C_E-Ticaret/tree/main/E-Ticaret)
 - **Web Scraping with Python** [Python_WEB_SCRAPING](https://github.com/TarkanKara/Python_WEB_SCRAPING)
